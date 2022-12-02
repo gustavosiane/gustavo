@@ -1,2 +1,1 @@
-# gustavo
-pensamento
+# pensamento1C
